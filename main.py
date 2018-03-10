@@ -31,7 +31,7 @@ for i in range(0,r):
         rednewrow.append(redval)
         grnewrow.append(grval)
         blnewrow.append(blval)
-    rednewmatrix.append(rednewrow)
+    rednewmatrix.append(rednewrow) 
     blnewmatrix.append(blnewrow)
     grnewmatrix.append(grnewrow)
     rednewrow=list()
